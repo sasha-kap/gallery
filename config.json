@@ -51,14 +51,6 @@
   ],
   "Travel Photography": [
     {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel Photography/DSC_0018.jpg",
-      "compressed_path": "./photos/Travel Photography/DSC_0018.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSC_0018.placeholder.jpg"
-    },
-    {
       "width": 2669,
       "height": 4004,
       "path": "./photos/Travel Photography/DSC_0031.jpg",
@@ -73,14 +65,6 @@
       "compressed_path": "./photos/Travel Photography/DSC_0129-2.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/DSC_0129-2.placeholder.jpg"
-    },
-    {
-      "width": 6000,
-      "height": 4000,
-      "path": "./photos/Travel Photography/DSC_0009.jpg",
-      "compressed_path": "./photos/Travel Photography/DSC_0009.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/DSC_0009.placeholder.jpg"
     },
     {
       "width": 4631,
@@ -105,6 +89,14 @@
       "compressed_path": "./photos/Travel Photography/DSC_0325.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/DSC_0325.placeholder.jpg"
+    },
+    {
+      "width": 2000,
+      "height": 3000,
+      "path": "./photos/Travel Photography/DSC_0009_2.jpg",
+      "compressed_path": "./photos/Travel Photography/DSC_0009_2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0009_2.placeholder.jpg"
     },
     {
       "width": 4199,
@@ -169,6 +161,14 @@
       "compressed_path": "./photos/Travel Photography/DSC_0304.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/DSC_0304.placeholder.jpg"
+    },
+    {
+      "width": 2000,
+      "height": 3000,
+      "path": "./photos/Travel Photography/DSC_0018_2.jpg",
+      "compressed_path": "./photos/Travel Photography/DSC_0018_2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/DSC_0018_2.placeholder.jpg"
     },
     {
       "width": 6000,
